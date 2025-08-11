@@ -1,4 +1,4 @@
-# Bag-of-Words Text Classification on [DATASET NAME]
+# Bag-of-Words Text Classification on Yelp reviews
 
 **TL;DR:** Train and evaluate classic ML models (LogReg, NB, SVM, RF) on a bag-of-words / TF-IDF representation to classify [task, e.g., spam vs ham / sentiment].
 
